@@ -1,0 +1,3 @@
+1|Finish Python final project|COMP9001|2026-05-24|High|Not completed
+2|Prepare three minute presentation|COMP9001|2026-05-23|Medium|Not completed
+3|Review lecture notes|COMP9001|2026-05-18|Low|Completed
